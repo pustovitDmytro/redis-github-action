@@ -1,0 +1,8 @@
+name: 'Install Redis'
+description: 'Install redis-server'
+inputs:
+  redis-version:
+    description: 'Redis version'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
