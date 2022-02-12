@@ -1,10 +1,6 @@
 # redis-github-action
 Cross platform install for [redis-server](https://redis.io/).
 
-[![Version][badge-vers]][npm]
-[![Bundle size][npm-size-badge]][npm-size-url]
-[![Downloads][npm-downloads-badge]][npm]
-
 [![CodeFactor][codefactor-badge]][codefactor-url]
 [![SonarCloud][sonarcloud-badge]][sonarcloud-url]
 [![Codacy][codacy-badge]][codacy-url]
@@ -12,8 +8,6 @@ Cross platform install for [redis-server](https://redis.io/).
 [![Language grade][lgtm-lg-badge]][lgtm-lg-url]
 [![Scrutinizer][scrutinizer-badge]][scrutinizer-url]
 
-[![Dependencies][badge-deps]][npm]
-[![Security][snyk-badge]][snyk-url]
 [![Build Status][tests-badge]][tests-url]
 [![Coverage Status][badge-coverage]][url-coverage]
 
