@@ -38,7 +38,7 @@ Package is [continuously tested][node-ver-test-url] on darwin, linux and win32 p
         with:
           node-version: 12
       - uses: actions/checkout@master
-      - uses: pustovitDmytro/redis-github-action@1.0.0
+      - uses: pustovitDmytro/redis-github-action@v1.1.0
 
 ```
 
@@ -77,7 +77,7 @@ Make the changes to the code and tests. Then commit to your branch. Be sure to f
 [lgtm-alerts-badge]: https://img.shields.io/lgtm/alerts/g/pustovitDmytro/redis-github-action.svg?logo=lgtm&logoWidth=18
 [lgtm-alerts-url]: https://lgtm.com/projects/g/pustovitDmytro/redis-github-action/alerts/
 
-[codacy-badge]: https://app.codacy.com/project/badge/Grade/8667aa23afaa4725854f098c4b5e8890
+[codacy-badge]: https://app.codacy.com/project/badge/Grade/f658ddd6ac48454a90c95f3c5fee486a
 [codacy-url]: https://www.codacy.com/gh/pustovitDmytro/redis-github-action/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pustovitDmytro/redis-github-action&amp;utm_campaign=Badge_Grade
 
 [sonarcloud-badge]: https://sonarcloud.io/api/project_badges/measure?project=pustovitDmytro_redis-github-action&metric=alert_status
