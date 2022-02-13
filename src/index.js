@@ -10,6 +10,7 @@ async function run() {
 
         await intaller.install({ redisVersion, platform: process.platform });
     } catch (error) {
+        console.error(error);
         core.setFailed(error.message);
     }
 }
