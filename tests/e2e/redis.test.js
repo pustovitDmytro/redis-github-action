@@ -2,7 +2,7 @@ import { assert } from 'chai';
 import Redis from 'ioredis';
 import { v4 as uuid } from 'uuid';
 
-suite('Redis');
+suite('Redis #no-pack');
 
 test('Connect to Redis', async function () {
     const redis = new Redis({
