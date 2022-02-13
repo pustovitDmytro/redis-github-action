@@ -6,7 +6,7 @@ async function run() {
     try {
         const redisVersion = core.getInput('redis-version');
 
-        const intaller = Installer({ exec });
+        const intaller = new Installer({ exec });
 
         await intaller.install({ redisVersion, platform: process.platform });
     } catch (error) {
