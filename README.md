@@ -38,7 +38,7 @@ Package is [continuously tested][node-ver-test-url] on darwin, linux and win32 p
         with:
           node-version: 12
       - uses: actions/checkout@master
-      - uses: pustovitDmytro/redis-github-action@v1.1.0
+      - uses: pustovitDmytro/redis-github-action@v1.0.1
 
 ```
 

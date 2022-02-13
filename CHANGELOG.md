@@ -1,3 +1,24 @@
+## [1.0.1](https://github.com/pustovitDmytro/redis-github-action/compare/v1.0.0...v1.0.1) (2022-02-13)
+
+
+### Chore
+
+* adds e2e tests ([f174a5c](https://github.com/pustovitDmytro/redis-github-action/commit/f174a5c2d0f5fc0cc67231a64f5133b5e352ee62))
+* fixes e2e ([cacadbc](https://github.com/pustovitDmytro/redis-github-action/commit/cacadbcdb762da3bc532b29d84ebd1f15fc9ff2b))
+* no-pack e2e tests ([81c0056](https://github.com/pustovitDmytro/redis-github-action/commit/81c0056acde955d9ecffb7205828f390ae63dad1))
+* Pin dependencies ([70f1e40](https://github.com/pustovitDmytro/redis-github-action/commit/70f1e400053bfa64b0b62f017608dd061982bbca))
+* set redis version in e2e ([cd54a18](https://github.com/pustovitDmytro/redis-github-action/commit/cd54a18fb73b9a1b5570142d48bd7de1d13bf2e8))
+
+### Docs
+
+* drop old badges ([a5c9b97](https://github.com/pustovitDmytro/redis-github-action/commit/a5c9b97ead7f98c075dba72e9fef0769a3222505))
+
+### Fix
+
+* @actions/core correct import ([b85eb2a](https://github.com/pustovitDmytro/redis-github-action/commit/b85eb2aa2fd106d3c0fa8540689e257ffc4908f7))
+* adds log on fail ([8f42e1a](https://github.com/pustovitDmytro/redis-github-action/commit/8f42e1a53a48cfd6c633f0f7ba0ad721a70a5e0f))
+* correct installer call ([3408975](https://github.com/pustovitDmytro/redis-github-action/commit/34089754e2cf6efef1ee7c9aad652366adbab250))
+
 # 1.0.0 (2022-02-12)
 
 
