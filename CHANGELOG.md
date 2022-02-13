@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/pustovitDmytro/redis-github-action/compare/v1.0.1...v1.0.2) (2022-02-13)
+
+
+### Docs
+
+* update codacy badge ([e142a5f](https://github.com/pustovitDmytro/redis-github-action/commit/e142a5fb91ae32d6791523264e1bef5c066227cf))
+
 ## [1.0.1](https://github.com/pustovitDmytro/redis-github-action/compare/v1.0.0...v1.0.1) (2022-02-13)
 
 
