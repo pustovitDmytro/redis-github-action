@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/pustovitDmytro/redis-github-action/compare/v1.0.2...v1.0.3) (2022-02-28)
+
+
+### Docs
+
+* help Ukraine 🇺🇦 ([078a36f](https://github.com/pustovitDmytro/redis-github-action/commit/078a36fefdb38a77dd462477831c21823f8893a9))
+
 ## [1.0.2](https://github.com/pustovitDmytro/redis-github-action/compare/v1.0.1...v1.0.2) (2022-02-13)
 
 
